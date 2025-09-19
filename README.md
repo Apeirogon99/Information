@@ -19,5 +19,8 @@
     <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
     <br>
   </div>
+
+  ## 좋아하는 것 (하늘, 구름)
+  ![구름](https://markdown-here.com/img/icon256.png)
   
 </div>
