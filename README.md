@@ -20,7 +20,7 @@
     <br>
   </div>
 
-  ## 좋아하는 것 (하늘, 구름)
+  ## 좋아하는 것 ☁
   ![구름](https://github.com/Apeirogon99/Information/blob/main/cloud.jpg)
   
 </div>
