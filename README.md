@@ -21,6 +21,6 @@
   </div>
 
   ## 좋아하는 것 (하늘, 구름)
-  ![구름](https://markdown-here.com/img/icon256.png)
+  ![구름](https://github.com/Apeirogon99/Information/blob/main/cloud.jpg)
   
 </div>
